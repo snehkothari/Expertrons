@@ -1,0 +1,2 @@
+{"operator":"BSNL","circle":"Tamil Nadu"}
+{"operator":"Jio","circle":"Mumbai"}
